@@ -1,4 +1,4 @@
-package com.zestlifia.rest.webservices.restfulwebservices;
+package com.zestlifia.rest.webservices.restfulwebservices.helloworld;
 
 public class HelloWorldBean {
 
